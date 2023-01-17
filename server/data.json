@@ -1,56 +1,89 @@
 {
-  
-  "houses":
-    [
-
-      {
-        "id": "0367baf3-1cb6-4baf-bede-48e17e1cd005",
-        "name": "Gryffindor",
-        "houseColours": "Scarlet and gold",
-        "founder": "Godric Gryffindor",
-        "animal": "Lion",
-        "element": "Fire",
-        "ghost": "Nearly-Headless Nick",
-        "land": "Hogwarts",
-        "traits": "Courage",
-        "currentLeader": "Minerva McGonagall"
-      },
-      {
-        "id": "805fd37a-65ae-4fe5-b336-d767b8b7c73a",
-        "name": "Ravenclaw",
-        "houseColours": "Blue and bronze",
-        "founder": "Rowena Ravenclaw",
-        "animal": "Eagle",
-        "element": "Air",
-        "ghost": "Grey Lady",
-        "land": "Hogwarts",
-        "heads":"Rowena Ravenclaw",
-        "traits":"Wisdom"
-      },
-      {
-        "id": "85af6295-fd01-4170-a10b-963dd51dce14",
-        "name": "Hufflepuff",
-        "houseColours": "Yellow and black",
-        "founder": "Helga Hufflepuff",
-        "animal": "Badger",
-        "element": "Earth",
-        "ghost": "Fat Friar",
-        "land": "Hogwarts",
-        "heads": "Helga Hufflepuff",
-        "traits": "Fairness"
-      },
-      {
-        "id": "a9704c47-f92e-40a4-8771-ed1899c9b9c1",
-        "name": "Slytherin",
-        "houseColours": "Green and silver",
-        "founder": "Salazar Slytherin",
-        "animal": "Serpent",
-        "element": "Water",
-        "ghost": "Bloody Baron",
-        "land": "Hogwarts",
-        "heads": "Horace Slughorn",
-        "traits": "Pride"
-      }
+  "houses": [
+    {
+      "id": "0367baf3-1cb6-4baf-bede-48e17e1cd005",
+      "name": "Gryffindor",
+      "houseColours": "Scarlet and gold",
+      "founder": "Godric Gryffindor",
+      "animal": "Lion",
+      "element": "Fire",
+      "ghost": "Nearly-Headless Nick",
+      "land": "Hogwarts",
+      "traits": "Courage",
+      "currentLeader": "Minerva McGonagall",
+      "image": "http://2.bp.blogspot.com/_D0qN0Omdbp8/TR77aerYehI/AAAAAAAAAWE/4oK6M9yYy2M/s1600/gryffindor.gif"
+    },
+    {
+      "id": "805fd37a-65ae-4fe5-b336-d767b8b7c73a",
+      "name": "Ravenclaw",
+      "houseColours": "Blue and bronze",
+      "founder": "Rowena Ravenclaw",
+      "animal": "Eagle",
+      "element": "Air",
+      "ghost": "Grey Lady",
+      "land": "Hogwarts",
+      "heads": "Rowena Ravenclaw",
+      "traits": "Wisdom",
+      "image": "https://www.clipartmax.com/png/full/422-4228153_shield-clip-art-printable-harry-potter-house-logos.png"
+    },
+    {
+      "id": "85af6295-fd01-4170-a10b-963dd51dce14",
+      "name": "Hufflepuff",
+      "houseColours": "Yellow and black",
+      "founder": "Helga Hufflepuff",
+      "animal": "Badger",
+      "element": "Earth",
+      "ghost": "Fat Friar",
+      "land": "Hogwarts",
+      "heads": "Helga Hufflepuff",
+      "traits": "Fairness",
+      "image": "https://i.pinimg.com/originals/b8/c3/47/b8c347a473b7ab3160a9441868f724f1.png"
+    },
+    {
+      "id": "a9704c47-f92e-40a4-8771-ed1899c9b9c1",
+      "name": "Slytherin",
+      "houseColours": "Green and silver",
+      "founder": "Salazar Slytherin",
+      "animal": "Serpent",
+      "element": "Water",
+      "ghost": "Bloody Baron",
+      "land": "Hogwarts",
+      "heads": "Horace Slughorn",
+      "traits": "Pride",
+      "image": "https://freepngimg.com/save/111679-house-ravenclaw-free-transparent-image-hd/920x700"
+    },
+    {
+      "id": "5bb397e0-aa38-4130-a15f-3a088caf3bf7",
+      "name": "Clancy Gilroy",
+      "founder": "asdf",
+      "element": "sadfasdf",
+      "animal": "asdfsadf",
+      "land": "asdfasdf",
+      "leader": "asdfsadf",
+      "image": "https://pbs.twimg.com/profile_images/1256434170131251201/p0iRorQP_400x400.jpg",
+      "watchword": "asdfsadf"
+    },
+    {
+      "id": "daae1a5d-5286-43ff-80fa-4ee0bab63a4c",
+      "name": "Clancy Gilroy",
+      "founder": "asdf",
+      "element": "sadfasdf",
+      "animal": "asdfsadf",
+      "land": "asdfasdf",
+      "leader": "asdfsadf",
+      "image": "https://pbs.twimg.com/profile_images/1256434170131251201/p0iRorQP_400x400.jpg",
+      "watchword": "asdfsadf"
+    },
+    {
+      "id": "d9380d03-bbf6-488c-84eb-b600101c57fb",
+      "name": "Easy",
+      "founder": "Easy1",
+      "element": "easy",
+      "animal": "EasyMonkey",
+      "land": "EasyLands",
+      "leader": "Easy5",
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/designs/192644181,width=178,height=178.png",
+      "watchword": "Easy is Easy"
+    }
   ]
-
 }

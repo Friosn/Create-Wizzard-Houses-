@@ -1,20 +1,12 @@
 {
   "name": "wizzard-server",
   "version": "0.0.0",
-  "description": "We'll have our houses in this server",
+  "description": "We'll generate and save our houses in this server",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
-  },
-  "keywords": [
-    "react",
-    "create",
-    "magic",
-    "wizzard"
-  ],
-  "author": "Friosn franz.rios.nino@gmail.com",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.0"
-  }
+    },
+  "keywords": ["react", "create", "magic", "wizzard"],
+  "author": "Friosn <franz.rios.nino@gmail.com>",
+  "license": "ISC"
 }
